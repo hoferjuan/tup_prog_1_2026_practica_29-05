@@ -8,31 +8,28 @@ namespace WindowsForms
 {
     internal class ExpedienteService
     {
-        string[] nombres;
-        string[] dnis;
-        double[]montos;
-        int contadorIngresados;
-        
+        private string[] Nombres = new string[100];
+        private string[] DNIs = new string[100];
+        private double[] montos = new double[100];
+        private int contadorIngresados = 0;
+
         // método Construcctor de mi objeto
         public ExpedienteService()
         {
-            nombres = new string[100];
-            dnis = new string[100];
-            montos = new double[100];
-            contadorIngresados = 0;
+
         }
 
         public void RegistrarExpediente(string nombre, string dni, double monto)
-        { 
-            nombres[contadorIngresados] = nombre;
-            dnis[contadorIngresados]= dni;
-            montos[contadorIngresados]= monto;
+        {
+            Nombres[contadorIngresados] = nombre;
+            montos[contadorIngresados] = monto;
+            DNIs[contadorIngresados] = dni;
             contadorIngresados++;
         }
         public double CalcularTotal()
         {
             double total = 0;
-            for (int i = 0; i < montos.Length; i++)
+            for (int i = 0; i < contadorIngresados; i++)
             {
                 total += montos[i];
             }
@@ -40,18 +37,63 @@ namespace WindowsForms
         }
         public double VerMayor()
         {
-
-            return 0;
+            double mayorMonto = 0;
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                if (montos[i] > mayorMonto)
+                {
+                    mayorMonto = montos[i];
+                }
+            }
+            return mayorMonto;
         }
         public int VerCantidadIngresados()
         {
-            return 0;
+            return contadorIngresados;
         }
-        public string Expediente(int idx)
+        public string VerExpediente(int idx)
         {
-            return "hola";
+            string expediente = $"Nombre: {Nombres[idx]}, Monto: $ {montos[idx]}, DNI: {idx} ";
+
+            return expediente;
+        }
+        public void OrdenarPorMontosAscendente()
+        {
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                for (int j = 0; j < contadorIngresados - 1; j++)
+                {
+                    if (montos[i] > montos[j])
+                    {
+                        Intercambiar(i, j);
+                    }
+                }
+            }
+        }
+        public void OrdenarPorMontosDescendiente()
+        {
+
+        }
+        public string BuscarPorDNI(int dni)
+        {
+            return "jdjd";
+        }
+        private void Intercambiar(int i, int j)
+        {
+            string auxDNI = DNIs[i];
+            DNIs[i] = DNIs[j];
+            DNIs[i] = DNIs[j];
+            DNIs[j] = auxDNI;
+
+            double auxMonto = montos[i];
+            montos[i] = montos[j];
+            montos[j] = auxMonto;
+
+            string auxNombres = Nombres[i];
+            Nombres[i] = Nombres[j];
+            Nombres[j] = auxNombres;
         }
 
-    
+
     }
 }
