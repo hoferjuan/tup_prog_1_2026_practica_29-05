@@ -1,0 +1,11 @@
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form2.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Repos\tup_prog_1_2026_practica_29-05\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb

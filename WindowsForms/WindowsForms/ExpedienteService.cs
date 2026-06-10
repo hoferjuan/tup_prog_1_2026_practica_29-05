@@ -21,10 +21,13 @@ namespace WindowsForms
 
         public void RegistrarExpediente(string nombre, string dni, double monto)
         {
-            Nombres[contadorIngresados] = nombre;
-            montos[contadorIngresados] = monto;
-            DNIs[contadorIngresados] = dni;
-            contadorIngresados++;
+            if (BuscarPorDNI(Convert.ToInt32(dni)) == "No Encontrado")
+            {
+                Nombres[contadorIngresados] = nombre;
+                montos[contadorIngresados] = monto;
+                DNIs[contadorIngresados] = dni;
+                contadorIngresados++;
+            }
         }
         public double CalcularTotal()
         {
@@ -53,9 +56,17 @@ namespace WindowsForms
         }
         public string VerExpediente(int idx)
         {
-            string expediente = $"Nombre: {Nombres[idx]}, Monto: $ {montos[idx]}, DNI: {idx} ";
-
+            string expediente = $"Nombre: {Nombres[idx]}, Monto: $ {montos[idx]}, DNI: {DNIs[idx]} ";
             return expediente;
+        }
+        public string[] VerExpedientes()
+        {
+            string[] expedientes = new string[contadorIngresados];
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                expedientes[i] = VerExpediente(i);
+            }
+            return expedientes;
         }
         public void OrdenarPorMontosAscendente()
         {
@@ -72,16 +83,31 @@ namespace WindowsForms
         }
         public void OrdenarPorMontosDescendiente()
         {
-
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                for (int j = 0; j < contadorIngresados - 1; j++)
+                {
+                    if (montos[i] < montos[j])
+                    {
+                        Intercambiar(i, j);
+                    }
+                }
+            }
         }
         public string BuscarPorDNI(int dni)
         {
-            return "jdjd";
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                if (DNIs[i] == dni.ToString())
+                {
+                    return VerExpediente(i);
+                }
+            }
+            return "No Encontrado";
         }
         private void Intercambiar(int i, int j)
         {
             string auxDNI = DNIs[i];
-            DNIs[i] = DNIs[j];
             DNIs[i] = DNIs[j];
             DNIs[j] = auxDNI;
 
@@ -93,7 +119,31 @@ namespace WindowsForms
             Nombres[i] = Nombres[j];
             Nombres[j] = auxNombres;
         }
-
-
+        public void OrdenarPorDNIAscendiente()
+        {
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                for (int j = 0; j < contadorIngresados - 1; j++)
+                {
+                    if (string.Compare(DNIs[i], DNIs[j]) > 0)
+                    {
+                        Intercambiar(i, j);
+                    }
+                }
+            }
+        }
+        public void OrdenarPorDNIDescendiente()
+        {
+            for (int i = 0; i < contadorIngresados; i++)
+            {
+                for (int j = 0; j < contadorIngresados - 1; j++)
+                {
+                    if (string.Compare(DNIs[i], DNIs[j]) < 0)
+                    {
+                        Intercambiar(i, j);
+                    }
+                }
+            }
+        }
     }
 }

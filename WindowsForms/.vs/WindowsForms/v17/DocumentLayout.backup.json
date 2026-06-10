@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\",
+  "WorkspaceRootPath": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\users\\alumno\\desktop\\tp- labo\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\users\\alumno\\desktop\\tp- labo\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\expedienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\expedienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\expedienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\users\\alumno\\desktop\\tp- labo\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\users\\alumno\\desktop\\tp- labo\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\windowsforms\\windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854A598F-1773-4751-A75C-77A075C37FD3}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsForms\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.Designer.cs",
-              "RelativeToolTip": "WindowsForms\\Form1.Designer.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T18:42:09.735Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
               "RelativeToolTip": "WindowsForms\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB0AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T18:25:33.135Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form2.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form2.cs",
+              "RelativeToolTip": "WindowsForms\\Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:41:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Form2.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForms\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:40:35.058Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ExpedienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\ExpedienteService.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\ExpedienteService.cs",
               "RelativeDocumentMoniker": "WindowsForms\\ExpedienteService.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\ExpedienteService.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\ExpedienteService.cs",
               "RelativeToolTip": "WindowsForms\\ExpedienteService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAA7wGAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T17:39:23.609Z",
               "EditorCaption": ""
@@ -71,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\TP- LABO\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\WindowsForms\\WindowsForms\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsForms\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T17:38:32.635Z",
