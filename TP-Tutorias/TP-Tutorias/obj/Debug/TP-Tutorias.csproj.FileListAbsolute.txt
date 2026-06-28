@@ -1,0 +1,14 @@
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\bin\Debug\TP-Tutorias.exe.config
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\bin\Debug\TP-Tutorias.exe
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\bin\Debug\TP-Tutorias.pdb
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.csproj.AssemblyReference.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP_Tutorias.Form1.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP_Tutorias.FormResultado.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP_Tutorias.FormCargarDatos.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP_Tutorias.Properties.Resources.resources
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.csproj.GenerateResource.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.csproj.CoreCompileInputs.cache
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.exe
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.pdb
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP-Tutorias.exe.config
+C:\Repos\tup_prog_1_2026_practica_29-05\TP-Tutorias\TP-Tutorias\obj\Debug\TP_Tutorias.FormLista.resources

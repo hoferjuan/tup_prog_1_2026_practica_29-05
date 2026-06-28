@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCargarDatos));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -39,23 +40,31 @@
             this.tbCat4 = new System.Windows.Forms.TextBox();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(39, 26);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(295, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(90, 20);
+            this.label1.Size = new System.Drawing.Size(247, 29);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Categorias";
+            this.label1.Text = "Precio Jornada Actual";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(39, 72);
+            this.label2.Location = new System.Drawing.Point(69, 69);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(13, 20);
             this.label2.TabIndex = 1;
@@ -65,7 +74,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(39, 121);
+            this.label3.Location = new System.Drawing.Point(259, 69);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(17, 20);
             this.label3.TabIndex = 2;
@@ -75,7 +84,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(39, 170);
+            this.label4.Location = new System.Drawing.Point(452, 69);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(26, 20);
             this.label4.TabIndex = 3;
@@ -85,7 +94,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(41, 223);
+            this.label5.Location = new System.Drawing.Point(644, 69);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(24, 20);
             this.label5.TabIndex = 4;
@@ -93,59 +102,105 @@
             // 
             // tbCat1
             // 
-            this.tbCat1.Location = new System.Drawing.Point(103, 72);
+            this.tbCat1.Location = new System.Drawing.Point(73, 193);
             this.tbCat1.Name = "tbCat1";
-            this.tbCat1.Size = new System.Drawing.Size(100, 22);
+            this.tbCat1.Size = new System.Drawing.Size(153, 22);
             this.tbCat1.TabIndex = 5;
             // 
             // tbCat2
             // 
-            this.tbCat2.Location = new System.Drawing.Point(103, 121);
+            this.tbCat2.Location = new System.Drawing.Point(263, 193);
             this.tbCat2.Name = "tbCat2";
-            this.tbCat2.Size = new System.Drawing.Size(100, 22);
+            this.tbCat2.Size = new System.Drawing.Size(153, 22);
             this.tbCat2.TabIndex = 6;
             // 
             // tbCat3
             // 
-            this.tbCat3.Location = new System.Drawing.Point(103, 170);
+            this.tbCat3.Location = new System.Drawing.Point(456, 193);
             this.tbCat3.Name = "tbCat3";
-            this.tbCat3.Size = new System.Drawing.Size(100, 22);
+            this.tbCat3.Size = new System.Drawing.Size(153, 22);
             this.tbCat3.TabIndex = 7;
             // 
             // tbCat4
             // 
-            this.tbCat4.Location = new System.Drawing.Point(103, 223);
+            this.tbCat4.Location = new System.Drawing.Point(648, 193);
             this.tbCat4.Name = "tbCat4";
-            this.tbCat4.Size = new System.Drawing.Size(100, 22);
+            this.tbCat4.Size = new System.Drawing.Size(153, 22);
             this.tbCat4.TabIndex = 8;
             // 
             // btnAceptar
             // 
             this.btnAceptar.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnAceptar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAceptar.Location = new System.Drawing.Point(25, 275);
+            this.btnAceptar.Location = new System.Drawing.Point(324, 259);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(89, 44);
             this.btnAceptar.TabIndex = 9;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCancelar
             // 
             this.btnCancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancelar.Location = new System.Drawing.Point(134, 275);
+            this.btnCancelar.Location = new System.Drawing.Point(453, 259);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(89, 44);
             this.btnCancelar.TabIndex = 10;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(73, 100);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(153, 75);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(263, 102);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(153, 73);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 12;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(456, 104);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(153, 71);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 13;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(648, 104);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(153, 71);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 14;
+            this.pictureBox4.TabStop = false;
             // 
             // FormCargarDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(251, 342);
+            this.ClientSize = new System.Drawing.Size(872, 342);
+            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.tbCat4);
@@ -159,6 +214,11 @@
             this.Controls.Add(this.label1);
             this.Name = "FormCargarDatos";
             this.Text = "FormCargarDatos";
+            this.Load += new System.EventHandler(this.FormCargarDatos_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -177,5 +237,9 @@
         private System.Windows.Forms.TextBox tbCat4;
         private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBox4;
     }
 }

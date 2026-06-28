@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\puestocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\puestocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\formcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\formcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|c:\\repos\\tup_prog_1_2026_practica_29-05\\tp-tutorias\\tp-tutorias\\formcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\puestocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\puestocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\tp-tutorias\\formcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B0C3B6D-537C-4F25-B5E0-E5B32013A749}|TP-Tutorias\\TP-Tutorias.csproj|solutionrelative:tp-tutorias\\formcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FormCargarDatos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\FormCargarDatos.cs",
               "RelativeDocumentMoniker": "TP-Tutorias\\FormCargarDatos.cs",
@@ -42,44 +54,73 @@
               "RelativeToolTip": "TP-Tutorias\\FormCargarDatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T22:28:51.77Z",
+              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form2.cs",
-              "RelativeDocumentMoniker": "TP-Tutorias\\Form2.cs",
-              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TP-Tutorias\\Form2.cs [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-Tutorias\\Form1.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form1.cs",
+              "RelativeToolTip": "TP-Tutorias\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T22:27:15.716Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-06-26T19:36:00.993Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Ticket.cs",
               "RelativeDocumentMoniker": "TP-Tutorias\\Ticket.cs",
               "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Ticket.cs",
               "RelativeToolTip": "TP-Tutorias\\Ticket.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAYwCQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T22:26:13.236Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PuestoControl.cs",
-              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\PuestoControl.cs",
-              "RelativeDocumentMoniker": "TP-Tutorias\\PuestoControl.cs",
-              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\PuestoControl.cs",
-              "RelativeToolTip": "TP-Tutorias\\PuestoControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form3.cs",
+              "RelativeDocumentMoniker": "TP-Tutorias\\Form3.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form3.cs",
+              "RelativeToolTip": "TP-Tutorias\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T22:26:00.956Z",
+              "WhenOpened": "2026-06-28T21:10:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form3.cs",
+              "RelativeDocumentMoniker": "TP-Tutorias\\Form3.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP-Tutorias\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T21:06:57.518Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCargarDatos.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\FormCargarDatos.cs",
+              "RelativeDocumentMoniker": "TP-Tutorias\\FormCargarDatos.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\FormCargarDatos.cs",
+              "RelativeToolTip": "TP-Tutorias\\FormCargarDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:36:34.449Z",
               "EditorCaption": ""
             },
             {
@@ -91,8 +132,20 @@
               "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "TP-Tutorias\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T22:25:32.636Z",
+              "WhenOpened": "2026-06-26T17:06:46.238Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PuestoControl.cs",
+              "DocumentMoniker": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\PuestoControl.cs",
+              "RelativeDocumentMoniker": "TP-Tutorias\\PuestoControl.cs",
+              "ToolTip": "C:\\Repos\\tup_prog_1_2026_practica_29-05\\TP-Tutorias\\TP-Tutorias\\PuestoControl.cs",
+              "RelativeToolTip": "TP-Tutorias\\PuestoControl.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T22:26:00.956Z"
             }
           ]
         }
